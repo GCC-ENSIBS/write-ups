@@ -37,12 +37,12 @@ On commence par l'exploitation du site web.
 ### Découverte
 
 On arrive sur un super site qui nous permet de voir le prix de certaines cryptos :
-![siteweb](img/image.png)
+![siteweb](assets/image.png)
 Et même de voir la courbe des 7j derniers.
-![courbe](img/image-1.png)
+![courbe](assets/image-1.png)
 
 Enfin, on peut voir la description du profil de Mr CrepesMaster.
-![Crepesmaster](img/image-2.png)
+![Crepesmaster](assets/image-2.png)
 
 Bon maintenant il va falloir exploiter ce super site web :)
 
