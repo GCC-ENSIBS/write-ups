@@ -1,3 +1,17 @@
+---
+author: K.L.M
+title: BreizhCTF25 - Mystical Angel
+description: Write up du challenge Mystical Angel par K.L.M
+slug: mystical-angel-web3                   
+date: 2025-03-17 00:00:00+0000
+image: assets/cover.png
+categories:
+    - Web3
+tags:
+    - BreizhCTF25
+    - Blockchain
+    - CTF
+---
 # Mystical Angel - K.L.M
 
 ## Contrat

@@ -1,3 +1,17 @@
+---
+author: K.L.M
+title: BreizhCTF25 - ByBreizh
+description: Write up du challenge ByBreizh par K.L.M
+slug: bybreizh-web3                   
+date: 2025-03-17 00:00:00+0000
+image: assets/cover.png
+categories:
+    - Web3
+tags:
+    - BreizhCTF25
+    - Blockchain
+    - CTF
+---
 # ByBreizh - K.L.M
 
 Description :
