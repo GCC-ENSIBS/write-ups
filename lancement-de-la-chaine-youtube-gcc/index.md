@@ -4,7 +4,7 @@ title: GCC YouTube Channel Launch
 description: |
     Since its creation, GCC has been organizing Wednesday evening sessions after classes. The concept is simple: a club member prepares a cybersecurity-related topic and presents it to the rest of the community. These sessions are highly appreciated and provide an excellent opportunity to develop skills across a wide range of subjects.
     To allow a broader audience to benefit from this content, we recently started recording our sessions and plan to publish the most polished ones on YouTube. This first article marks the launch of our channel with the session: "Introduction to Active Directory Pentesting," presented by Zleb and Cqban.
-slug: gcc-youtube-channel-launch
+slug: lancement-de-la-chaine-youtube-gcc
 date: 2026-06-11 00:09:00+0000
 image: assets/cover.png
 categories:
