@@ -1,9 +1,9 @@
 ---
 author: skilo
-title: GCC YouTube Channel Launch
+title: Lancement de la chaîne YouTube GCC
 description: |
-    Since its creation, GCC has been organizing Wednesday evening sessions after classes. The concept is simple: a club member prepares a cybersecurity-related topic and presents it to the rest of the community. These sessions are highly appreciated and provide an excellent opportunity to develop skills across a wide range of subjects.
-    To allow a broader audience to benefit from this content, we recently started recording our sessions and plan to publish the most polished ones on YouTube. This first article marks the launch of our channel with the session: "Introduction to Active Directory Pentesting," presented by Zleb and Cqban.
+    Depuis sa création, GCC organise des sessions le mercredi soir après les cours. Le principe est simple : un membre du club prépare un sujet autour de la cybersécurité et le présente aux autres. Ces sessions sont vivement appréciés et permettent de monter en compétence sur des sujets diverses.
+    Afin de permettre à un plus grand nombre de personnes de profiter de ces contenus, nous avons récemment commencé à enregistrer nos sessions et souhaitons publier sur YouTube les plus abouties. Ce premier article marque le lancement de la chaîne avec la session : "Introduction au pentest Active Directory", présentée par Zleb et Cqban.
 slug: lancement-de-la-chaine-youtube-gcc
 date: 2026-06-11 00:09:00+0000
 image: assets/cover.png
@@ -14,46 +14,43 @@ tags:
     - Active Directory
 ---
 
-# GCC YouTube Channel Launch — Introduction to Active Directory Pentesting
+# Lancement de la chaîne YouTube GCC — Introduction au pentest Active Directory
 
-## Introduction to Active Directory Pentesting
+## Introduction au Pentest Active Directory
 
-During the weeks of May 11 and May 18, Zleb and Cqban hosted a two-part presentation and workshop series introducing Active Directory (AD) pentesting. Both sessions were recorded and are now available on the GCC YouTube channel!
+Les semaines du 11 et du 18 Mai, Zleb et Cqban ont animé une série de deux présentations et workshops consacrées à l'introduction au pentest Active Directory (AD). Ces deux sessions ont été enregistré et sont disponibles sur la [chaîne YouTube de GCC](https://www.youtube.com/@gcc-ensibs) !
 
-### Day 1 – Active Directory, Kerberos, and DACL Fundamentals
+### Jour 1 – Fondamentaux d'Active Directory, Kerberos et DACL
 
-The first session introduces the core concepts behind AD pentesting:
+Cette première session introduit les concepts de base sous-jacent au pentest AD :
 
-- Active Directory overview
-- How Kerberos works
-- Introduction to DACLs (Discretionary Access Control Lists)
-- Overview of attack techniques (AS-REP Roasting, Kerberoasting, DACL abuse)
+- L'Active Directory en bref
+- Fonctionnement de Kerberos
+- Introduction aux DACL (Discretionary Access Control Lists)
+- Présentations de techniques d'attaques (AS-REP Roasting, Kerberoasting, DACL abuse)
 
-You can find the replay and slides at the following links:
+Vous pouvez retrouver le replay et les slides aux URL suivants :
+🎥 Replay : https://youtu.be/7_0sfsPvFBU
 
-🎥 Replay: https://youtu.be/7_0sfsPvFBU
+📑 Slides : [slides-ad-cm-1.pdf](assets/slides-ad-cm-1.pdf)
 
-📑 Slides: [slides-ad-cm-1.pdf](assets/slides-ad-cm-1.pdf)
+### Jour 2 – Délégations Kerberos et attaques associées
 
-### Day 2 – Kerberos Delegation and Related Attacks
-
-The second session explores the different Kerberos delegation mechanisms and the most common exploitation techniques:
+La seconde session présente elle les différents mécanismes de délégation Kerberos et des techniques d'exploitation les plus courantes :
 
 - Unconstrained Delegation
 - Constrained Delegation
 - Resource-Based Constrained Delegation (RBCD)
-- Attack scenarios and exploitation paths
+- Scénarios d'attaque et pistes d'exploitation
 
-You can find the replay and slides at the following links:
+Vous pouvez retrouver le replay et les slides aux URL suivants :
+🎥 Replay : https://youtu.be/hYHBJ8jtpF0
 
-🎥 Replay: https://youtu.be/hYHBJ8jtpF0
+📑 Slides : [slides-ad-cm-2.pdf](assets/slides-ad-cm-2.pdf)
 
-📑 Slides: [slides-ad-cm-2.pdf](assets/slides-ad-cm-2.pdf)
+## Et ensuite ?
 
-## What's Next?
+Ces premières vidéos ne constitue que le lancement de la chaine YouTube — des nouvelles sessions sont en préparation et arrivent à la rentrée !
 
-These first videos are only the beginning of the GCC YouTube channel. New sessions are already in preparation and will be released when the new academic term begins.
-
-See you soon,
-GCC
-
+À très vite,
+Le bureau GCC
