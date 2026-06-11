@@ -12,7 +12,7 @@ categories:
 tags:
     - YouTube
     - Active Directory
-------------------
+---
 
 # GCC YouTube Channel Launch — Introduction to Active Directory Pentesting
 
