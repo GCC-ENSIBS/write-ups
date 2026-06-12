@@ -4,7 +4,7 @@ title: Lancement de la chaîne YouTube GCC
 description: |
     Depuis sa création, GCC organise des sessions le mercredi soir après les cours. Le principe est simple : un membre du club prépare un sujet autour de la cybersécurité et le présente aux autres. Ces sessions sont vivement appréciés et permettent de monter en compétence sur des sujets diverses.
 
-    Afin de permettre à un plus grand nombre de personnes de profiter de ces contenus, nous avons récemment commencé à enregistrer nos sessions et souhaitons publier sur YouTube les plus abouties. Ce premier article marque le lancement de la chaîne avec la session : "Introduction au pentest Active Directory", présentée par [Zleb](https://app.hackthebox.com/users/2182557) et [Cqban](https://app.hackthebox.com/users/490447).
+    Afin de permettre à un plus grand nombre de personnes de profiter de ces contenus, nous avons récemment commencé à enregistrer nos sessions et souhaitons publier sur YouTube les plus abouties. Ce premier article marque le lancement de la chaîne avec la session : "Introduction au pentest Active Directory", présentée par Zleb et Cqban.
 slug: lancement-de-la-chaine-youtube-gcc
 date: 2026-06-11 00:09:00+0000
 image: assets/cover.png
